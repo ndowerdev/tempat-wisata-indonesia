@@ -49,9 +49,12 @@
       <meta name="twitter:image" content="{{ socialImage | url | absoluteUrl(site.url) }}"/>
     {% endif %}
 
+    {# <script src="{{ 'extra.js' | url }}" defer></script> #}
     {# Add mermaid -- start #}
-      <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-      <script>mermaid.initialize({startOnLoad:true});</script>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <script>
+      mermaid.initialize({startOnLoad: true});
+    </script>
     {# Add mermaid -- end #}
   </head>
   <body>
@@ -100,7 +103,14 @@
         <div class="footer__content">
 
           <ul class="hero__social-links">
-            {% if site.socialLinks %}
+            <li>
+              <a href="{{ '/privacy-policy.html' | url }}" {{ externalAttribute | safe }}>Privacy Policy</a>
+              <a href="{{ '/disclaimer.html' | url }}" {{ externalAttribute | safe }} >Disclaimer</a>
+              <a href="{{ '/about' | url }}" {{ externalAttribute | safe }} >About Us</a>
+              <a href="{{ '/contact-us.html' | url }}" {{ externalAttribute | safe }} >Contact Us</a>
+            </li>
+
+            {# {% if site.socialLinks %}
               {% for item in site.socialLinks %}
                 {% set externalAttribute = '' %}
 
@@ -112,7 +122,7 @@
                   <a href="{{ item.url | url }}" {{ externalAttribute | safe }} >{{ item.text }}</a>
                 </li>
               {% endfor %}
-            {% endif %}
+            {% endif %} #}
 
             {% if site.footerLinks %}
 
@@ -133,10 +143,9 @@
           {% if site.showFooterAttribution %}
             <p class="footer__attribution">
           Created by
-      <a href="https://twitter.com/yinkakun" target="_blank" rel="noopener">Yinka,</a>
+      {# <a href="https://twitter.com/yinkakun" target="_blank" rel="noopener">Yinka,</a>
        Powered by <a href="https://www.11ty.dev" target="_blank" rel="noopener">11ty,</a>
-        Checkout <a href="https://github.com/yinkakun/eleventy-duo" target="_blank" rel="noopener noreferrer">project's github repo </a>
-            </p>
+        Checkout <a href="https://github.com/yinkakun/eleventy-duo" target="_blank" rel="noopener noreferrer">project's github repo </a> #}</p>
           {% endif %}
 
         </div>

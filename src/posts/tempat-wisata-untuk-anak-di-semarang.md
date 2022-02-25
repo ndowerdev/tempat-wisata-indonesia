@@ -1,0 +1,235 @@
+---
+title: Tempat Wisata Anak Semarang
+realTitle: tempat wisata untuk anak di semarang
+date: '2022-02-13'
+tags: "objek-wisata"
+socialImage: "https://tse4.mm.bing.net/th?id=OIP.DK0tgTYsc3EdB12IWYaSoQHaMS&amp;pid=15.1"
+decription: ✔ +19 Tempat Wisata Anak Semarang.
+permalink: /{{ realTitle | slug }}.html
+---
+
+## ✔ +19 Tempat Wisata Anak Semarang
+
+![BAJU ADAT 34 PROPINSI hub Hp  WA 081297046330 Sewa baju ](https://1.bp.blogspot.com/-mOrMhuvCqtg/XsCVAcODD5I/AAAAAAAAi8I/1UT7CKzhEAcQjq6X_Q9c2eijHVO4El4pgCLcBGAsYHQ/s1600/IMG-20200517-WA0020.jpg)
+
+
+
+Kami memiliki 19 tempat tentang ✔ +19 Tempat Wisata Anak Semarang, berikut listnya:
+
+
+
+![DUSUN SEMILIR Semarang Tiket  5 Wahana Menghibur Juli ](https://tse2.mm.bing.net/th?id=OIP.R23UqEuu_bH0O82tdlVTdgHaE8&amp;pid=15.1)
+**Source:** _travelspromo.com_
+
+
+### 1. Taman Wilis
+
+
+
+Untuk informasi lengkapnya, hubungi Taman Wilis, Jl. Wilis No.3, Tegalsari, Kec. Candisari, Kota Semarang, Jawa Tengah 50614 at , tempat ini memiliki 4.5 dari 796 review.
+
+---
+
+
+![Pantai Teluk Awur Menikmati Senja Sunset di Jepara ](https://tse4.mm.bing.net/th?id=OIP.30YhqiDYt22dLKZrle7fFAHaFj&amp;pid=15.1)
+**Source:** _travelingpin.com_
+
+
+### 2. Brown Canyon
+
+
+
+Tempat ini berlokasi di Brown Canyon, Rowosari, Kec. Tembalang, Kota Semarang, Jawa Tengah 50279 dengan ratiung 4.2 dari 3204 reviews, untuk info selanjutnya bisa hubungi 
+
+---
+
+
+![Berikut Ini Ada Beberapa Foto Tempat Wisata Di Semarang ](https://tse1.mm.bing.net/th?id=OIP.yKqaeHpbP5nSqJtDZo9iEgHaE7&amp;pid=15.1)
+**Source:** _endehoy.com_
+
+
+### 3. Puri Maerokoco
+
+
+
+Informasi lebih lanjut, hubungi (024) 7617433, Tempat berlokasi di Puri Maerokoco, Jl. Puri Anjasmoro, Tawangsari, Kec. Semarang Bar., Kota Semarang, Jawa Tengah 50114 dan memiliki rating 4.4 dari 3732 review.
+
+---
+
+
+![Tempat Wisata Di Bogor Cimory  Tempat Wisata Indonesia](https://tse2.mm.bing.net/th?id=OIP.L01GlXdC1PBSSD48GUBK0gHaEK&amp;pid=15.1)
+**Source:** _pesonawisataindonesia.com_
+
+
+### 4. SAM POO KONG
+
+
+
+Untuk informasi lengkap, hubungi SAM POO KONG, Klenteng Sam Po Kong, Bongsari, Kec. Semarang Bar., Kota Semarang, Jawa Tengah 50148 at { 0811-2611-914 }, mendapatkan rating 4.5 dari 24116 review.
+
+---
+
+
+![Gereja Blenduk  Seputar Semarang](https://tse3.mm.bing.net/th?id=OIP.8N5g4YBU-iPRl96qpBEiAwHaE9&amp;pid=15.1)
+**Source:** _seputarsemarang.com_
+
+
+### 5. Jungle Toon Waterpark
+
+
+
+Informasi lengkap hubungi Jungle Toon Waterpark, Jl. Bukit Wahid Boulevard Jl. Gedong Songo, Manyaran, Kec. Semarang Bar., Kota Semarang, Jawa Tengah 50261 at (024) 76635999 dengan rating 4.2 dari 1208 review.
+
+---
+
+
+![9 Kolam Renang di Indonesia Ini Punya Desain Unik Lho ](https://tse4.mm.bing.net/th?id=OIP.4J2ab1ZG9WX59s-IwnlcdQHaHZ&amp;pid=15.1)
+**Source:** _phinemo.com_
+
+
+### 6. Kota Lama Semarang
+
+
+
+Informasi lengkap hubungi Kota Lama Semarang, Jl. Letjen Suprapto No.31, Tj. Mas, Kec. Semarang Utara, Kota Semarang, Jawa Tengah 50137 at  dengan rating 4.7 dari 13670 review.
+
+---
+
+
+![The Lodge Maribaya Lembang  Bandung](https://tse4.mm.bing.net/th?id=OIP.98ldiEDltb1JooEqngbXJQHaE7&amp;pid=15.1)
+**Source:** _trivindo.com_
+
+
+### 7. PlaPlay (Indoor Theme Park)
+
+
+
+Informasi lebih lanjut, hubungi (024) 86400707, Tempat berlokasi di PlaPlay (Indoor Theme Park), SETOS Lantai 1-3, Jl. Inspeksi, Kembangsari, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50133 dan memiliki rating 4 dari 58 review.
+
+---
+
+
+![100 Destinasi Wisata Semarang Paling Menarik dan Eksotis](https://tse1.mm.bing.net/th?id=OIP.5PIkuz2udQOgO0UzK2E9IgHaEU&amp;pid=15.1)
+**Source:** _thelittlesnacks.com_
+
+
+### 8. Kampung Pelangi
+
+
+
+Tempat ini berlokasi di Kampung Pelangi, Jl. DR. Sutomo No.89, Randusari, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50244 dengan ratiung 4.3 dari 3665 reviews, untuk info selanjutnya bisa hubungi 
+
+---
+
+
+![6 Tempat Main Anak Di Jakarta Paling Seru  Wisata Jakarta ](https://tse2.mm.bing.net/th?id=OIP.LDNsT7mYdUwSn4RIGzcLeQHaE8&amp;pid=15.1)
+**Source:** _wisatajakarta.co.id_
+
+
+### 9. Mangrove EduPark
+
+
+
+Informasi lebih lanjut, hubungi , Tempat berlokasi di Mangrove EduPark, Tugu, Tugurejo, Kec. Tugu, Kota Semarang, Jawa Tengah 50182 dan memiliki rating 4 dari 253 review.
+
+---
+
+
+### 10. Lawang Sewu
+
+
+
+Untuk informasi lengkap, hubungi Lawang Sewu, Jl. Pemuda, Sekayu, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50132 at {  }, mendapatkan rating 4.6 dari 60499 review.
+
+---
+
+
+### 11. Taman Wisata Maerokocho semarang
+
+
+
+Tempat ini berlokasi di 29QP+QHR Taman Wisata Maerokocho semarang, Tawangsari, Kec. Semarang Bar., Kota Semarang, Jawa Tengah 50144 dengan ratiung 4.9 dari 14 reviews, untuk info selanjutnya bisa hubungi 
+
+---
+
+
+### 12. Kota Lama Semarang
+
+
+
+Untuk informasi lengkap, hubungi Kota Lama Semarang, Old Town, Bandarharjo, Kec. Semarang Utara, Kota Semarang, Jawa Tengah 50175 at {  }, mendapatkan rating 4.7 dari 689 review.
+
+---
+
+
+### 13. Old City 3D Trick Art Museum Semarang
+
+
+
+Informasi lebih lanjut, hubungi (024) 86570776, Tempat berlokasi di Old City 3D Trick Art Museum Semarang, Jl. Letjen Suprapto No.26, Old Town, Tj. Mas, Kec. Semarang Utara, Kota Semarang, Jawa Tengah 50174 dan memiliki rating 4.4 dari 3491 review.
+
+---
+
+
+### 14. Kampung Wisata Taman Lele Semarang
+
+
+
+Informasi lengkap hubungi Kampung Wisata Taman Lele Semarang, Jl. Walisongo No.KM, RW.10, Tambakaji, Kec. Ngaliyan, Kota Semarang, Jawa Tengah 50185 at (024) 8664094 dengan rating 4.1 dari 2422 review.
+
+---
+
+
+### 15. Taman Pandanaran
+
+
+
+Untuk informasi lengkap, hubungi Taman Pandanaran, Jl. Pandanaran, Mugassari, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50249 at {  }, mendapatkan rating 4.4 dari 1805 review.
+
+---
+
+
+### 16. Desa Wisata Lembah Kalipancur
+
+
+
+Untuk informasi lengkapnya, hubungi Desa Wisata Lembah Kalipancur, Jl. Raya Kalipancur Manyaran, Kalipancur, Kec. Ngaliyan, Kota Semarang, Jawa Tengah 50183 at (024) 7629990, tempat ini memiliki 3.9 dari 1999 review.
+
+---
+
+
+### 17. Water Blaster Candi Golf
+
+
+
+Untuk informasi lengkapnya, hubungi Water Blaster Candi Golf, Jl. Bukit Golf No.1, Jangli, Kec. Tembalang, Kota Semarang, Jawa Tengah 50255 at (024) 8500030, tempat ini memiliki 4.2 dari 4597 review.
+
+---
+
+
+### 18. Kolam Renang Dan Taman Rekreasi Marina
+
+
+
+Informasi lebih lanjut, hubungi (024) 7627715, Tempat berlokasi di Kolam Renang Dan Taman Rekreasi Marina, Villa Marina, Ruko No. 3, Jl. Villa Marina, Kota Semarang, Jawa Tengah 50144 dan memiliki rating 4.3 dari 719 review.
+
+---
+
+
+### 19. Pantai Marina
+
+
+
+Untuk informasi lengkap, hubungi 29WP+4FC Pantai Marina, Tawangsari, Kota Semarang, Jawa Tengah 50144 at {  }, mendapatkan rating 4.1 dari 12059 review.
+
+---
+
+
+
+
+
+
+
+
+
+Nah gimana sobat, menarik bukan. Sekiand dulu postingan tentang ***Tempat Wisata Anak Semarang***. Jangan lupa bagikan postingan ini kepada teman teman kalian yahh..

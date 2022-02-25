@@ -1,10 +1,12 @@
 {
-  "name": "Eleventy Duo",
-  "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
-  "url": "https://eleventyduo.netlify.app",
+  "name": "Tempat Wisata Indonesia",
+  "description": "Kumpulan informasi tempat wisata yang ada di wilayah Indonesia.",
+  "descriptionFull": "Kumpulan informasi tempat wisata yang ada di wilayah Indonesia.",
+  "url": "https://tempat-wisata-indonesia.pages.dev/",
+  
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
+    "name": "Kipo",
+    "email": "untukkepentingansemata@gmail.com",
     "twitterHandle": "author_handle"
   },
   "defaultSocialImage": "/images/default-social-image.png",
@@ -15,7 +17,7 @@
       "external": false
     },
     {
-      "text": "About",
+      "text": "About Us",
       "url": "/about",
       "external": false
     }
@@ -44,5 +46,5 @@
       "external": true
     }
   ],
-  "showFooterAttribution": true
+  "showFooterAttribution": false
 }

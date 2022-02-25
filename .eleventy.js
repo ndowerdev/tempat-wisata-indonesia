@@ -19,6 +19,7 @@ const manifestPath = path.resolve(
 const manifest = isDev
   ? {
       'main.js': '/assets/main.js',
+      'extra.js': '/assets/extra.js',
       'main.css': '/assets/main.css',
     }
   : JSON.parse(fs.readFileSync(manifestPath, { encoding: 'utf8' }));
@@ -91,6 +92,7 @@ module.exports = function (eleventyConfig) {
             case 'all':
             case 'nav':
             case 'post':
+            case 'pages':
             case 'posts':
               return false;
           }
@@ -108,7 +110,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter('pageTags', (tags) => {
-    const generalTags = ['all', 'nav', 'post', 'posts'];
+    const generalTags = ['all', 'nav', 'post', 'posts','pages'];
 
     return tags
       .toString()
