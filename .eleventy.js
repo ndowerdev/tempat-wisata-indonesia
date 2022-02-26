@@ -39,6 +39,8 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.setDataDeepMerge(true);
+  
+  // eleventyConfig.addPassthroughCopy({ "seo/*.html": "." });
   eleventyConfig.addPassthroughCopy({ 'src/images': 'images' });
   eleventyConfig.setBrowserSyncConfig({ files: [manifestPath] });
 

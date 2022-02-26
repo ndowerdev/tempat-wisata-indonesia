@@ -3,7 +3,11 @@
   "description": "Kumpulan informasi tempat wisata yang ada di wilayah Indonesia.",
   "descriptionFull": "Kumpulan informasi tempat wisata yang ada di wilayah Indonesia.",
   "url": "https://tempat-wisata-indonesia.pages.dev",
-  
+  "seo": {
+    "google": "fZUtuU5gkMdS5eYcRS5n3SC_wZoMDiuDgkxmzH5B0QA",
+    "bing": "",
+    "yandex": ""
+  },
   "author": {
     "name": "Kipo",
     "email": "untukkepentingansemata@gmail.com",
